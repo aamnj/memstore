@@ -1,3 +1,4 @@
+```
 const Storage = require(./index.js)
 const storage = new Storage("age", "number")
 
@@ -14,3 +15,5 @@ output
   {age:22, name:"Alice"}
   {age:22, name:"Julie"}
 ]
+
+```
